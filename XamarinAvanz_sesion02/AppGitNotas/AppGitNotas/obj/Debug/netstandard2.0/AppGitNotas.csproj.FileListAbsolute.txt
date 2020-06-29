@@ -1,0 +1,14 @@
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\bin\Debug\netstandard2.0\AppGitNotas.deps.json
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\bin\Debug\netstandard2.0\AppGitNotas.dll
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\bin\Debug\netstandard2.0\ref\AppGitNotas.dll
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\bin\Debug\netstandard2.0\AppGitNotas.pdb
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.csprojAssemblyReference.cache
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.AssemblyInfoInputs.cache
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.AssemblyInfo.cs
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.csproj.CoreCompileInputs.cache
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.dll
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\ref\AppGitNotas.dll
+C:\mobiles\AppNotas\XamarinAvanz_sesion02\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.pdb

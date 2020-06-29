@@ -1,2 +1,2 @@
-AdbTarget=
+AdbTarget=-s LMQ710RWR87DS8JVM7
 AdbOptions=
